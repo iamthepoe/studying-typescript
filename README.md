@@ -1,4 +1,4 @@
-<h1 align=center>Studying Javascript</h1>
+<h1 align=center>Studying Typescript</h1>
 <div align=center>
 	<img src="https://w7.pngwing.com/pngs/915/519/png-transparent-typescript-hd-logo-thumbnail.png" width=200 height=200>
 </div>
