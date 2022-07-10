@@ -16,3 +16,5 @@ console.log(Colors.red === 0);
 console.log(Colors[0] === Colors[Colors.red]);
 console.log(Philosophies.Kantianism == Philosophies[Philosophies.Kantianism]);
 console.log(Philosophies[111]); //undefined 
+
+export default {}
