@@ -5,3 +5,5 @@ function SomeError(): never{
 }
 
 SomeError();
+
+export default {};
